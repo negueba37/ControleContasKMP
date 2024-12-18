@@ -1,4 +1,4 @@
-package com.fortunaTeste
+package com.contas
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image
@@ -13,8 +13,8 @@ import androidx.compose.ui.Modifier
 import org.jetbrains.compose.resources.painterResource
 import org.jetbrains.compose.ui.tooling.preview.Preview
 
-import fortuna.composeapp.generated.resources.Res
-import fortuna.composeapp.generated.resources.compose_multiplatform
+import contas.composeapp.generated.resources.Res
+import contas.composeapp.generated.resources.compose_multiplatform
 
 @Composable
 @Preview

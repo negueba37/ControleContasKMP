@@ -48,11 +48,11 @@ kotlin {
 }
 
 android {
-    namespace = "com.fortuna"
+    namespace = "com.contas"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     defaultConfig {
-        applicationId = "com.fortuna"
+        applicationId = "com.contas"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.fortunaTeste
+package com.contas
 
 class Greeting {
     private val platform = getPlatform()

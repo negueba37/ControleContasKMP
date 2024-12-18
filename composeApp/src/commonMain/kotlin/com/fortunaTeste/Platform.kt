@@ -1,4 +1,4 @@
-package com.fortunaTeste
+package com.contas
 
 interface Platform {
     val name: String

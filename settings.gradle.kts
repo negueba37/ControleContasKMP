@@ -1,4 +1,4 @@
-rootProject.name = "Fortuna"
+rootProject.name = "Contas"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {

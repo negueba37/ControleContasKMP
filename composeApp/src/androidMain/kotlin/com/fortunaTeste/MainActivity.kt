@@ -1,4 +1,4 @@
-package com.fortunaTeste
+package com.contas
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

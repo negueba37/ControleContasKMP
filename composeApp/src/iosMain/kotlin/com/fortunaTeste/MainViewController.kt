@@ -1,4 +1,4 @@
-package com.fortunaTeste
+package com.contas
 
 import androidx.compose.ui.window.ComposeUIViewController
 
